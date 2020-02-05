@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+![Hardware Happy Hour Louisville Logo]({{ site.url }}/images/hardware_happy_hour.png)
+## H3 Louisville
 
-You can use the [editor on GitHub](https://github.com/Hardware-Happy-Hour-Louisville/Hardware-Happy-Hour-Louisville.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We are an informal gathering of hardware, electronics, and embedded nerds
+that like to build and share with the community.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Upcoming Events
 
-### Markdown
+[Hardware Social at Great Flood Brewing Company - April 1st 2020](https://gettogether.community/events/4243/h3-social/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We also post all of our events at:
 
-```markdown
-Syntax highlighted code block
+- [GetTogether](https://gettogether.community/hardware-happy-hour/)
+- [Louisville Tech](https://louisvilletech.org/)
+- [Google Calendar](https://calendar.google.com/calendar?cid=YW51ajMyMmxlY3RzdDRqN2Zsb2xwN3J2dmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
-# Header 1
-## Header 2
-### Header 3
+All of our events hosted under the [Contributor Convenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
 
-- Bulleted
-- List
+### Contact
 
-1. Numbered
-2. List
+Reach out to us at [contact@h3lou.org](mailto:contact@h3lou.org)
 
-**Bold** and _Italic_ and `Code` text
+### Sponsors
 
-[Link](url) and ![Image](src)
-```
+Thanks to those groups who have sponsored past events:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [Civic Data Alliance](https://civicdataalliance.org/)
+- [LVL1](https://www.lvl1.org/)
+- [Tindie](https://www.tindie.com/)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hardware-Happy-Hour-Louisville/Hardware-Happy-Hour-Louisville.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
