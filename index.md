@@ -1,5 +1,5 @@
 ![Hardware Happy Hour Louisville Logo]({{ site.url }}/images/hardware_happy_hour.png)
-## H3 Louisville
+
 
 We are an informal gathering of hardware, electronics, and embedded nerds
 that like to build and share with the community.
