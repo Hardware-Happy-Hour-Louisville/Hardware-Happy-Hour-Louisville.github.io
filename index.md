@@ -20,11 +20,16 @@ All of our events hosted under the [Contributor Convenant](https://www.contribut
 
 Reach out to us at [contact@h3lou.org](mailto:contact@h3lou.org)
 
-### Sponsors
+### Sponsors & Hosts
 
 Thanks to those groups who have sponsored past events:
 
 - [Civic Data Alliance](https://civicdataalliance.org/)
-- [LVL1](https://www.lvl1.org/)
 - [Tindie](https://www.tindie.com/)
+
+And to those who have hosted us:
+
+- [Great Flood Brewing Company](https://www.greatfloodbrewing.com/)
+- [LVL1](https://www.lvl1.org/)
+
 
