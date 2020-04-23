@@ -6,7 +6,7 @@ that like to build and share with the community.
 
 ### Upcoming Events
 
-[Hardware e-Social on discord - May 27th 2020](https://gettogether.community/events/4243/h3-social/)
+[Hardware e-Social on discord - May 27th 2020](https://gettogether.community/events/5238/hardware-happy-hour/)
 
 We also post all of our events at:
 
