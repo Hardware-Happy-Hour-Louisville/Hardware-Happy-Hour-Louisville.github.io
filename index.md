@@ -6,7 +6,7 @@ that like to build and share with the community.
 
 ### Upcoming Events
 
-[Hardware Social at Great Flood Brewing Company - April 1st 2020](https://gettogether.community/events/4243/h3-social/)
+[Hardware e-Social on discord - May 27th 2020](https://gettogether.community/events/4243/h3-social/)
 
 We also post all of our events at:
 
@@ -14,7 +14,7 @@ We also post all of our events at:
 - [Louisville Tech](https://louisvilletech.org/)
 - [Google Calendar](https://calendar.google.com/calendar?cid=YW51ajMyMmxlY3RzdDRqN2Zsb2xwN3J2dmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
-All of our events hosted under the [Contributor Convenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
+All of our events hosted under the [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
 
 ### Contact
 
