@@ -6,7 +6,7 @@ that like to build and share with the community.
 
 ### Upcoming Events
 
-[Hardware Social on discord - May 27th 2020](https://gettogether.community/events/5238/hardware-happy-hour/)
+[Hardware Social (Google Meetup) - October 14th 2020](https://www.eventbrite.com/e/hardware-happy-hour-louisville-hack-and-tell-online-meetup-tickets-121872527009)
 
 We also post all of our events at:
 
